@@ -2,7 +2,7 @@
 System Volume Information
 .dropbox.device
 .metadata_never_index
-.Trashes
+.Trash*
 boot_out.txt
 
 #*.mpy
