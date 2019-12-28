@@ -64,19 +64,19 @@ while True:
 
     # if tilted right, move right
     if (x > 1):
-        mouse.move(x=x)
+        mouse.move(x=int(x))
 
     # ... move left
     elif (x < 0):
-        mouse.move(x=x)
+        mouse.move(x=int(x))
 
     # up
     if (y > 1):
-        mouse.move(y=y)
+        mouse.move(y=int(y))
 
     # down
     elif (y < 0):
-        mouse.move(y=y)
+        mouse.move(y=int(y))
 
     # otherwise blank
     else:
