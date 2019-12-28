@@ -4,6 +4,7 @@ System Volume Information
 .metadata_never_index
 .Trash*
 boot_out.txt
-
-#*.mpy
+coverage
+*.mpy
 code.py
+lib
